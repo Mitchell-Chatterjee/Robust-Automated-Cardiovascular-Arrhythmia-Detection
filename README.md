@@ -224,8 +224,11 @@ if you have any pressing questions and I would be happy to help.
 ***
 If you find this repo useful in your research, please consider citing our paper as follows:
 ```
-@article{chatterjee2024toward,
-  title={Toward Robust Automated Cardiovascular Arrhythmia Detection using Self-supervised Learning and 1-Dimensional Vision Transformers},
-  author={Chatterjee, Mitchell and Chan, Adrian and Komeili, Majid}
+@article{chatterjee2026toward,
+  title={Toward robust automated cardiovascular arrhythmia detection using self-supervised learning and 1-dimensional vision transformers},
+  author={Chatterjee, Mitchell and Chan, Adrian DC and Komeili, Majid},
+  journal={Scientific Reports},
+  year={2026},
+  publisher={Nature Publishing Group UK London}
 }
 ```
